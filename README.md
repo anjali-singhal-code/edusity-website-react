@@ -1,6 +1,6 @@
 # 🎓 Edusity Website React
 
-🌐 Live Demo: (Add your live link here)
+🌐 Live Demo: edusity-website-react.netlify.app
 
 A modern and responsive educational website built using React JS and Vite. This project includes interactive sections, smooth UI, reusable components, and responsive layouts for better user experience.
 
