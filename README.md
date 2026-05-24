@@ -1,16 +1,44 @@
-# React + Vite
+# 🎓 Edusity Website React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌐 Live Demo: (Add your live link here)
 
-Currently, two official plugins are available:
+A modern and responsive educational website built using React JS and Vite. This project includes interactive sections, smooth UI, reusable components, and responsive layouts for better user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 📱 Fully responsive design
+- 🎥 Video player section
+- 💬 Testimonials section
+- 🎓 Programs and Campus sections
+- 🧭 Interactive navigation bar
+- ⚡ Smooth and modern UI
+- ♻️ Reusable React components
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+- React JS
+- CSS3
+- Vite
+
+---
+
+## 📂 Project Structure
+
+- `src/components/Navbar`
+- `src/components/Hero`
+- `src/components/About`
+- `src/components/Programs`
+- `src/components/Campus`
+- `src/components/Testimonials`
+- `src/components/Contact`
+- `src/components/Footer`
+
+---
+
+## 📌 Purpose of Project
+
+This project was created to practice React component structure, props, state management, responsive layouts, and modern frontend development using React JS.
